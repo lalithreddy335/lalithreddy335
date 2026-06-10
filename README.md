@@ -94,8 +94,22 @@ I'm a **Data Analyst** with **2 years of experience** transforming raw data into
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalithreddy335&theme=tokyonight&hide_border=true" alt="Lalith's GitHub Streak" width="48%"/>
 </p>
 
+### 🗣️ Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithreddy335&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="50%"/>
+  <img src="https://img.shields.io/badge/SQL-50%25-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-35%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-15%25-276DC3?style=flat-square&logo=r&logoColor=white" />
+</p>
+
+<p align="center">
+
+| Language | Usage |
+|----------|-------|
+| 🗄️ SQL | ████████████████████░░░░░░░░░░░░░░░░░░░░ 50% |
+| 🐍 Python | ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 35% |
+| 📊 R | ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15% |
+
 </p>
 
 ---
