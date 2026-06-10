@@ -100,15 +100,6 @@ I'm a **Data Analyst** with **2 years of experience** transforming raw data into
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lalithreddy335&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect!
 
