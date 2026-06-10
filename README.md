@@ -82,15 +82,6 @@ I'm a **Data Analyst** with **2 years of experience** transforming raw data into
   <a href="https://www.linkedin.com/in/lalithreddy2002" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-lalithreddy2002-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@lalithreddy335" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://medium.com/@lalithreddy335" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://www.instagram.com/lalithreddy335" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 ---
@@ -126,10 +117,6 @@ I'm always open to collaborating on exciting data projects, discussing analytics
 <p align="center">
   <a href="https://www.linkedin.com/in/lalithreddy2002" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:lalithreddy335@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
